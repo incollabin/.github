@@ -3,6 +3,11 @@
  
 This side project want to be mainly a side project to have fun with some architecture design and mostly coding in Go. In the short future I want 
 to make a schedule to force myself to respect some deadlines. 
+
+This is the architecture diagram of the whole thing:
+
+![image](https://github.com/user-attachments/assets/82311381-e9a5-4ec7-885d-e91eb817319d)
+
 <!--
 
 **Here are some ideas to get you started:**
