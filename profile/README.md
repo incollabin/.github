@@ -1,8 +1,7 @@
 ## A paste bin alternative
 > 🚧 This section is work in progress 🚧
  
-This side project want to be mainly a side project to have fun with some architecture design and mostly coding in Go. In the short future I want 
-to make a schedule to force myself to respect some deadlines. 
+This side project is primarily intended as a fun exploration of architecture design and coding, with a focus on Go. In the near future, I plan to create a schedule to help me stay disciplined and meet set deadlines.
 
 This is the architecture diagram of the whole thing:
 
